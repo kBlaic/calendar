@@ -1,17 +1,24 @@
+# Calendar
+
 This app represents React calendar with historical events for each day in selected month.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- View details about historical events
+- Navigate through the calendar to explore different dates
 
-### `npm install`
+## Installing
 
-Installs all dependencies.
+1. Navigate to the project folder
 
-### `npm start`
+2. Install dependencies:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```sh
+npm install
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Start the development server:
+
+```sh
+npm start
+```
